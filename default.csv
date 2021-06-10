@@ -1,0 +1,20 @@
+#TAIKOJIRO,0.95,
+//名前,,
+#NAME,default,
+,,
+//画面解像度（大きくすることで高解像度に出来る　かも）,x,y
+#RESOLUTION,1280,720
+,,
+//読み込むcsvファイル,,
+//一人用,,
+#SINGLE,single.csv,
+/,,
+/二人用
+//#COUPLEまたは#DOUBLEで指定、現状どちらでも違いはなし
+#DOUBLE,couple.csv,
+
+//選曲画面・フォント,,
+#SONGSELECT,songselect.csv,ＤＥＰ勘亭流
+,,
+//音,,
+#SOUND,snd/sound.csv,
